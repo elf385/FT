@@ -1,0 +1,61 @@
+.header {
+    text-align: right;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+table,
+th,
+td {
+    border: 3px solid goldenrod;
+    border-collapse: collapse;
+    height: 50px;
+}
+
+th {
+    text-align: left;
+}
+
+td {
+    text-align: center;
+}
+
+caption {
+    font-size: x-large;
+    color: saddlebrown;
+    background-color: lightyellow;
+    padding: 15px;
+    border: 3px solid goldenrod;
+    border-radius: 4px;
+}
+
+table {
+    margin: 0 auto;
+    width: 80%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.first-line {
+    background-color: bisque;
+    color: saddlebrown;
+}
+
+.gryffindor {
+    background-color: rgb(251, 209, 215);
+    color: sienna;
+    font-style: italic;
+}
+
+.slytherin {
+    background-color: rgb(192, 240, 192);
+    color: sienna;
+    font-style: italic;
+}
+
+.ravenclaw {
+    background-color: rgb(180, 221, 246);
+    color: sienna;
+    font-style: italic;
+}
